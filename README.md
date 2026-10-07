@@ -7,14 +7,14 @@
     This game is a retro text-based rogue-lite title, in which you play a hero who must brave the titular mountain in the hopes of reaching the summit to face Dagon himself.
     <br />
     <br />
-    <a href="https://github.com/carterfaceysmith/dagonsMountain"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Carter-FS/dagonsMountain"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/carterfaceysmith/dagonsMountain">View Demo</a>
+    <a href="https://github.com/Carter-FS/dagonsMountain">View Demo</a>
     ·
-    <a href="https://github.com/carterfaceysmith/dagonsMountain/issues">Report Bug</a>
+    <a href="https://github.com/Carter-FS/dagonsMountain/issues">Report Bug</a>
     ·
-    <a href="https://github.com/carterfaceysmith/dagonsMountain/issues">Request Feature</a>
+    <a href="https://github.com/Carter-FS/dagonsMountain/issues">Request Feature</a>
   </p>
 </div>
 
