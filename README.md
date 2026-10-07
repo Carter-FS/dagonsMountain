@@ -33,7 +33,7 @@ The premise of the game is a simple command line based roguelike, pick your clas
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 </br>
 </br>
 
