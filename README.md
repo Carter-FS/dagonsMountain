@@ -1,40 +1,31 @@
-<a name="readme-top"></a>
+# dagonsMountain
 
-<br />
-<h3 align="center">dagonsMountain</h3>
+A text-based roguelike for the terminal. Pick a class and fight your way up the mountain towards Dagon.
 
-  <p align="center">
-    This game is a retro text-based rogue-lite title, in which you play a hero who must brave the titular mountain in the hopes of reaching the summit to face Dagon himself.
-    <br />
-    <br />
-    <a href="https://github.com/Carter-FS/dagonsMountain"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Carter-FS/dagonsMountain">View Demo</a>
-    ·
-    <a href="https://github.com/Carter-FS/dagonsMountain/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Carter-FS/dagonsMountain/issues">Request Feature</a>
-  </p>
-</div>
+**Status:** Archived
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+This was the first program I wrote from scratch without any guidance, in my first semester of university in 2021.
 
-A very sentimental project to me, this was the first thing I coded without any guidance and from scratch, it was made during my first semester of university.
+## Gameplay
 
-The premise of the game is a simple command line based roguelike, pick your class, journey up the mountain and face Dagon.
+- Three classes: Mage, Warrior and Assassin, each with its own stats and abilities
+- Six enemy types, from Slime to the Ghost of Spicy Curry, scaled to your level
+- Turn-based combat: attack, use an ability or run
+- Each level-up gives three points to spend on health, mana, attack, evasion, defence or perception
 
-### Built With
+Dagon himself never made it in. The boss fight is still a `FIXME`, so the climb goes on until you die or head back down.
 
-* Java
+## Requirements
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- A Java Development Kit (JDK)
 
-## License
+## Usage
 
-Distributed under the MIT License. See `LICENSE` for more information.
-</br>
-</br>
+```sh
+javac -d build dagonsMountain.java
+java -cp build dagonsMountain.dagonsMountain
+```
 
-Godspeed.
+## Licence
+
+Released under the MIT licence (see `LICENSE`).
